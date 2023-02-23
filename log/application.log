@@ -1,0 +1,150 @@
+2023-01-11 16:20:51,091 [main] INFO com.qa.amazon.base.BaseTest - Browser: chrome
+2023-01-11 17:29:00,196 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-11 17:31:01,828 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-11 17:32:52,225 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-11 17:33:34,889 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-11 17:33:59,983 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-11 17:35:16,031 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-11 17:36:16,032 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-11 17:39:08,846 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-11 17:39:13,802 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() null
+2023-01-11 17:41:22,649 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-11 17:41:27,346 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (f6200708b77929e2002a077fc32d0443)
+2023-01-12 10:12:27,069 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-12 10:12:31,876 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (b76d1cfa7c521d92b5e12b2907f03ffe)
+2023-01-12 10:15:06,749 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-12 10:15:12,664 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (e01928eda0bc9322574d12bea2cc3f66)
+2023-01-12 10:51:38,523 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-12 10:51:42,352 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (dcaa76647261ffbc0db37775680b56d2)
+2023-01-12 10:53:13,837 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-12 10:53:18,794 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (c08f8638a095dce848c3c125caf3f71b)
+2023-01-12 10:54:36,094 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-12 10:54:40,010 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (52e12c83ce46906c019d2a811add2e2a)
+2023-01-12 10:55:00,573 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-12 10:55:05,414 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (e676ea03f0be400c48a2efee2f85fc70)
+2023-01-12 11:01:26,516 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-12 11:01:31,347 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (4afaab358b861a8a2795f15518301510)
+2023-01-12 11:02:19,926 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-12 11:02:24,985 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (e14c946c24ae546f4b6a3a92cce94766)
+2023-01-12 15:49:11,637 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-12 15:50:03,087 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-12 15:51:57,111 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-12 15:56:28,632 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-12 15:57:52,054 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-12 15:58:55,799 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-12 15:59:01,087 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (bb4d5746aae8b56c6127aefbbd5a9abc)
+2023-01-12 15:59:01,088 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-12 16:01:32,220 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-12 16:01:37,257 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (8fa1e913d3731f67c251d7d63b344570)
+2023-01-12 16:01:37,258 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-12 16:02:52,685 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-12 16:02:56,671 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (3d4f404aebc6acc66f744a3d11b69285)
+2023-01-12 16:02:56,671 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-12 16:03:30,027 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-12 16:03:34,960 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (bb5227e658b0caf3a6c59227e301a0b2)
+2023-01-12 16:03:34,961 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-12 16:04:13,000 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-12 16:04:18,406 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (53929df9c13818025447b2b55cb840ae)
+2023-01-12 16:04:18,407 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-12 16:06:57,456 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-12 16:07:02,710 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (e3e50c3a03dd140ba40f746c32d0a39c)
+2023-01-12 16:07:02,711 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 10:43:37,260 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-13 10:43:42,598 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (a72395e8d7250ecb0fcab478e6c537e8)
+2023-01-13 10:43:42,598 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 10:45:10,194 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-13 10:45:15,777 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (84e7f6bdd23103e8e0dfaa80c8a5c381)
+2023-01-13 10:45:15,778 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 10:46:37,320 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-13 10:46:42,925 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (8d5c1eba45bfa4772589a3d6a0e13001)
+2023-01-13 10:46:42,925 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 10:48:29,602 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-13 10:48:33,654 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (5836b88000e3a6eb615f54cb588ced59)
+2023-01-13 10:48:33,655 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 10:49:01,522 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-13 10:49:06,995 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (2debcdec7d14d83815e002b17e984231)
+2023-01-13 10:49:06,996 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 10:50:38,530 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-13 10:50:42,572 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (3efd0a6f21877d25954a686bd1fb52b0)
+2023-01-13 10:50:42,573 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 10:52:10,006 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-13 10:52:14,948 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (8664ceef9ac841be26707ac0b5a62b5b)
+2023-01-13 10:52:14,949 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 10:53:24,111 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-13 10:53:29,362 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (1b763a5562aa72df589372f1aa83c76f)
+2023-01-13 10:53:29,364 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 10:58:57,113 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-13 10:59:02,350 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (fc1922707450a447fae8babe2aca4945)
+2023-01-13 10:59:02,351 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 11:06:10,621 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-13 11:06:15,616 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (c71c4e187a0dce1bb498816936379b1a)
+2023-01-13 11:06:15,617 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 11:06:58,576 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-13 11:07:03,683 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (863bf32b297a4f2110d193c0cf201dda)
+2023-01-13 11:07:03,684 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 11:07:51,743 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-13 11:07:56,788 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (d33de4dc7e65324cd5b132edc89aba2b)
+2023-01-13 11:07:56,789 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 11:08:21,723 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-13 11:08:26,657 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (b561bb3b3c0f5b845563abcc417de935)
+2023-01-13 11:08:26,658 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 11:13:05,105 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-13 11:13:10,358 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (cc5a4bb37061ee18610900c4a592c719)
+2023-01-13 11:13:10,358 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 11:13:22,819 [main] INFO com.qa.amazon.base.BasePage - enterSearchTerm
+2023-01-13 11:13:43,995 [main] INFO com.qa.amazon.base.BasePage - Verify Page Title 
+2023-01-13 11:13:43,996 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 11:16:08,401 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-13 11:16:13,644 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (c38ee605712f1b80c4b14b5c18995354)
+2023-01-13 11:16:13,644 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 11:16:35,341 [main] INFO com.qa.amazon.base.BasePage - enterSearchTerm
+2023-01-13 11:16:56,576 [main] INFO com.qa.amazon.base.BasePage - Verify Page Title 
+2023-01-13 11:16:56,577 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 11:17:49,620 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-13 11:17:55,829 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (82f709fd37eb0e4be2df765fbda24152)
+2023-01-13 11:17:55,829 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 11:18:18,023 [main] INFO com.qa.amazon.base.BasePage - enterSearchTerm
+2023-01-13 11:18:39,246 [main] INFO com.qa.amazon.base.BasePage - Verify Page Title 
+2023-01-13 11:18:39,247 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 11:21:46,498 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-13 11:21:51,644 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (6d0166f456e85a1e7c3cf8a656c6794a)
+2023-01-13 11:21:51,645 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 11:22:06,931 [main] INFO com.qa.amazon.base.BasePage - enterSearchTerm
+2023-01-13 11:22:18,844 [main] INFO com.qa.amazon.base.BasePage - Verify Page Title 
+2023-01-13 11:22:18,845 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 11:27:34,108 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-13 11:27:38,887 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (c788c9360205623c776934cf53e9d01e)
+2023-01-13 11:27:38,888 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 11:27:56,495 [main] INFO com.qa.amazon.base.BasePage - Verify Page Title 
+2023-01-13 11:27:56,496 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 11:27:56,511 [main] INFO com.qa.amazon.base.BasePage - enterSearchTerm
+2023-01-13 11:29:56,467 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-13 11:30:01,756 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (19f80cbf11bf18bbe2fd237d42a620ef)
+2023-01-13 11:30:01,756 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 11:30:25,362 [main] INFO com.qa.amazon.base.BasePage - Verify Page Title 
+2023-01-13 11:30:25,362 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 11:30:25,377 [main] INFO com.qa.amazon.base.BasePage - enterSearchTerm
+2023-01-13 23:01:20,170 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-13 23:01:27,125 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (e3b6c08b3e1f9f796e1f50d67f9156e7)
+2023-01-13 23:01:27,126 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 23:01:52,288 [main] INFO com.qa.amazon.base.BasePage - Verify Page Title 
+2023-01-13 23:01:52,288 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 23:01:52,299 [main] INFO com.qa.amazon.base.BasePage - enterSearchTerm
+2023-01-13 23:31:31,806 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-13 23:31:36,435 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (764fbe3f48caade2cf3659fcbf5764c1)
+2023-01-13 23:31:36,436 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 23:31:47,558 [main] INFO com.qa.amazon.base.BasePage - Verify Page Title 
+2023-01-13 23:31:47,558 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-13 23:31:47,596 [main] INFO com.qa.amazon.base.BasePage - enterSearchTerm
+2023-01-14 00:05:55,186 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-14 00:05:59,829 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (8908344e9b51c25ae5e37531ce5cd693)
+2023-01-14 00:05:59,830 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-14 00:06:11,098 [main] INFO com.qa.amazon.base.BasePage - Verify Page Title 
+2023-01-14 00:06:11,099 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-14 00:06:11,110 [main] INFO com.qa.amazon.base.BasePage - enterSearchTerm
+2023-01-17 09:50:22,140 [main] INFO com.qa.amazon.base.BasePage - Browser: chrome
+2023-01-17 09:50:27,507 [main] INFO com.qa.amazon.base.BasePage - verifyTitle() ChromeDriver: chrome on WINDOWS (71356b6dac170e5bfb23d17d751e5d9b)
+2023-01-17 09:50:27,508 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-17 09:50:39,013 [main] INFO com.qa.amazon.base.BasePage - Verify Page Title 
+2023-01-17 09:50:39,013 [main] INFO com.qa.amazon.base.BasePage - PageTitle
+2023-01-17 09:50:39,023 [main] INFO com.qa.amazon.base.BasePage - enterSearchTerm
